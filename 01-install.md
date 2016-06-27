@@ -46,14 +46,14 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> Python 2
+>> Python 2 -- its what I originally installed when I first downloaded python because "Learning Python the hard way" told me too
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
-I am using 2.7.11.  I can check by importing sys and typing sys.version
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I am using 2.7.11.  I can check by importing sys and typing sys.version
+
 
  
 
