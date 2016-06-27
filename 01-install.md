@@ -46,12 +46,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 2
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
+I am using 2.7.11.  I can check by importing sys and typing sys.version
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
  
