@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> emacs -- alphabetical and then I took the tutorial and I thought it would be a good editor to get familar with
 
 --
 
@@ -68,6 +68,6 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Spyder.  It came with Anaconda and I have already used it a bit.  An interesting feature is the ability to open an iPython or python console or both.  Also the history pane.  ctl-shift-e goes to the editor.   ctl-shift-i goes to ipython console.  I have customized which panes are visible, their size and where they are located within the window. 
 
  
